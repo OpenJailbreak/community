@@ -4,6 +4,8 @@ OpenJailbreak Community
 OpenJailbreak serves to be an open source community for iOS jailbreaking codebases.
 Focusing on community learning, fundamental code-reuse, and knowledge sharing to excel the jailbreak community as one.
 
+This organization also acts as a filter to update repo code. Anyone is encouraged to contribute code here, once tested and approved then a request will be made to the upstream repo owner. 
+
 Project Requests
 ----------------
 Create an issue on this repo, assign yourself and anyone who will work on the project as well. Label your issue as "enhancement."
